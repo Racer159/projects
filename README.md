@@ -3,7 +3,7 @@ Below are instructions for creating a badge holder to RAM® mount adapter for us
 
 ## Bill of Materials
 
-Below is the Bill of Materials for building this adapter.  Do note that this does not include the mount to which you will affix the adapter.
+Below is the Bill of Materials for building this adapter.
 
 1. Identity Stronghold® Secure Badge Holder DuoLite™ Vertical 2 Card Holder (IDSH2004-001B)
    - https://www.idstronghold.com/collections/badgeholders/products/secure-badge-holder-duolite-portrait
@@ -17,6 +17,8 @@ Below is the Bill of Materials for building this adapter.  Do note that this doe
    - https://www.rockywoods.com/2-Mil-Spec-Tape-Fastener-Loop
 6. 27mm x 2" Sew-On Tape Fastener Hook
    - https://www.rockywoods.com/2-Mil-Spec-Tape-Fastener-Hook
+7. B-Size RAM® mount of your choice
+   - https://www.rammount.com/shop-all/popular-components/b-size
 
 ## Instructions
 
