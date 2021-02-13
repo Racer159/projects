@@ -27,7 +27,10 @@ Below are the tools that are required and or suggested for completing this proje
 1. Sewing Machine (w/1" Button Hole function)
 2. Small Snips or Scissors
 3. Small Clamps
-4. Seam Ripper (because mistakes happen)
+4. Writing Implement
+5. Tape Measurer
+6. Expoy Dispenser
+7. Seam Ripper (because mistakes happen)
 
 ## Instructions
 
