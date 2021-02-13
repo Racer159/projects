@@ -20,6 +20,14 @@ Below is the Bill of Materials for building this adapter.  Do note this does not
 7. 3M™ Scotch-Weld™ Epoxy Adhesive DP125
    - https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Scotch-Weld-Epoxy-Adhesive-DP125/?N=5002385+3293242443&preselect=3293786499&rt=rud
 
+## Tools
+
+Below are the tools that are required and or suggested for completing this project.
+
+1. Sewing Machine (w/1" Button Hole function)
+2. Small Snips or Scissors
+3. Seam Ripper (because mistakes happen)
+
 ## Instructions
 
 TBD
