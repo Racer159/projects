@@ -36,6 +36,8 @@ Below are the tools that are required and or suggested for completing this proje
 
 ## Instructions
 
+![Side-by-side-picture of the RAM® ID card holder front, open, and back on a table](images/on-table.jpg)
+
 1. From the CORDURA® Nylon Fabric cut three strips in the following sizes:
   - 80mm x 112mm
   - 80mm x 45mm
