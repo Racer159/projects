@@ -1,6 +1,8 @@
 # RAM® Mount Badge Holder
 Below are instructions for creating a badge holder to RAM® mount adapter for use on motorcycles or other applications where you want to have a standard ID-1/CR80 card mounted via a RAM® mount.  This could be used with a Military Common Access Card (CAC), Credit Card, Employee Badge or other card in any situation you need fast access to the card (such as going through a gated, or access controlled area in a vehicle).  Feel free to modify, redistribute, or sell these instructions as you see fit as these instructions are released under a Creative Commons Zero (CC0) license.  Do note that RAM®, Identity Stronghold®, CORDURA®, 3M™ and RockyWoods® were not worked or consulted with for the creation of this adapter and retain all of their copyrights and trademarks.
 
+![Side-by-side-picture of the RAM® ID card holder closed and open on a Honda Grom](images/on-bike.jpg)
+
 ## Bill of Materials
 
 Below is the Bill of Materials for building this adapter.  Do note this does not include the other side of the B-Size RAM® mount to affix this adapter.
