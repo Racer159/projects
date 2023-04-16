@@ -69,7 +69,7 @@ Below are the tools that are required and or suggested for completing this proje
                      ┗━━━━┛
 ```
 
-3. Sew the 2-inch x 27mm Sew-On Hook (NOT Loop) piece to the outside of the 45mm cordura piece 14mm from the bottom by going around the edge and forming an X in the middle for added strength.
+3. Sew the 2-inch x 27mm Sew-On Hook (**NOT** Loop) piece to the outside of the 45mm cordura piece 14mm from the bottom by going around the edge and forming an X in the middle for added strength.
 
 > ⚠️ **NOTE:** Be sure to secure the velcro (and all other fabric in this guide) with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
 
