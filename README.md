@@ -16,7 +16,7 @@ Below is the Bill of Materials for building this adapter.  Do note this does not
 3. 367mm x 80mm CORDURA® Nylon Fabric
    - https://www.rockywoods.com/FABRICS/CORDURA/CORDURA-Nylon-Fabrics
 4. Medium Duty Thread
-   - https://www.rockywoods.com/THREAD/Medium-Duty-Thread
+   - https://www.rockywoods.com/Notions/THREAD/Medium-Duty-Thread
 5. 87mm x 2" Sew-On Tape Fastener Loop
    - https://www.rockywoods.com/2-Mil-Spec-Tape-Fastener-Loop
 6. 27mm x 2" Sew-On Tape Fastener Hook
