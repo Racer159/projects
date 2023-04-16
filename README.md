@@ -1,7 +1,7 @@
 # RAM® Mount Badge Holder
 Below are instructions for creating a badge holder to RAM® mount adapter for use on motorcycles or other applications where you want to have a standard ID-1/CR80 card mounted via a RAM® mount.  This could be used with a Military Common Access Card (CAC), Credit Card, Employee Badge or other card in any situation you need fast access to the card (such as going through a gated, or access controlled area in a vehicle).  Feel free to modify, redistribute, or sell these instructions as you see fit as these instructions are released under a Creative Commons Zero (CC0) license.
 
-> ℹ️ **Note:** RAM®, Identity Stronghold®, CORDURA®, 3M™ and RockyWoods® were not consulted with for the creation of this adapter and retain all of their copyrights and trademarks.
+> ℹ️ **INFO:**  RAM®, Identity Stronghold®, CORDURA®, 3M™ and RockyWoods® were not consulted with for the creation of this adapter and retain all of their copyrights and trademarks.
 
 ![Side-by-side-picture of the RAM® ID card holder closed and open on a Honda Grom](images/on-bike.jpg)
 
@@ -41,56 +41,58 @@ Below are the tools that are required and or suggested for completing this proje
 ![Side-by-side-picture of the RAM® ID card holder front, open, and back on a table](images/on-table.jpg)
 
 1. From the CORDURA® Nylon Fabric cut three strips in the following sizes:
-  - 80mm x 112mm
-  - 80mm x 45mm
-  - 80mm x 210mm
-  
+
 ```
-┏━━━━━━┓ ┏━━━━━━┓
-┃┏━━━━┓┃ ┃┏━━━━┓┃
-┃┃    ┃┃ ┃┃    ┃┃
-┃┃    ┃┃ ┃┃    ┃┃
-┃┗━━━━┛┃ ┃┃    ┃┃
-┗━━━━━━┛ ┃┃    ┃┃
-         ┃┃    ┃┃
-┏━━━━━━┓ ┃┃    ┃┃
-┃┏━━━━┓┃ ┃┃    ┃┃
-┃┗━━━━┛┃ ┃┗━━━━┛┃
-┗━━━━━━┛ ┗━━━━━━┛
+80mm x 112mm   80mm x 210mm
+  ┏━━━━━━┓       ┏━━━━━━┓
+  ┃┏━━━━┓┃       ┃┏━━━━┓┃
+  ┃┃    ┃┃       ┃┃    ┃┃
+  ┃┃    ┃┃       ┃┃    ┃┃
+  ┃┗━━━━┛┃       ┃┃    ┃┃
+  ┗━━━━━━┛       ┃┃    ┃┃
+ 80mm x 45mm     ┃┃    ┃┃
+  ┏━━━━━━┓       ┃┃    ┃┃
+  ┃┏━━━━┓┃       ┃┃    ┃┃
+  ┃┗━━━━┛┃       ┃┗━━━━┛┃
+  ┗━━━━━━┛       ┗━━━━━━┛
 ```
 
-> ℹ️ **Note:** These pieces are wider than the badge holder by ~1cm on each side to give room for sewing
+> ℹ️ **INFO:** These pieces are wider than the badge holder by ~1cm on each side to give room for sewing
 
 2. From the 2-inch Sew-On Tape Fastener Hook and Loop cut three strips of the following sizes:
-  - 27mm - Hook
-  - 27mm - Loop
-  - 60mm - Loop
+
 ```
-┏━━━━┓ ┏━━━━┓ ┏━━━━┓
-┃░░░░┃ ┃▓▓▓▓┃ ┃▓▓▓▓┃
-┗━━━━┛ ┗━━━━┛ ┃▓▓▓▓┃
-              ┗━━━━┛
+27mm (Hook)    27mm & 60mm (Loop)
+  ┏━━━━┓      ┏━━━━┓ ┏━━━━┓
+  ┃░░░░┃      ┃▓▓▓▓┃ ┃▓▓▓▓┃
+  ┗━━━━┛      ┗━━━━┛ ┃▓▓▓▓┃
+                     ┗━━━━┛
 ```
 
 3. Sew the 2-inch x 27mm Sew-On Hook (NOT Loop) piece to the outside of the 45mm cordura piece 14mm from the bottom by going around the edge and forming an X in the middle for added strength.
 
-> ℹ️ **Note:** Be sure to secure the velcro (and all other fabric in this guide) with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
+> ⚠️ **NOTE:** Be sure to secure the velcro (and all other fabric in this guide) with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
 
 4. Sew the fabric strips together (in two Us around the edge) with their outsides facing each other (so that they are inside out) with the 45mm piece aligned to the bottom of the 210mm piece and the 112mm piece aligned with the top of the 210mm piece.
 
-> ℹ️ **Note:** The side of the strips that faces toward the other strip should be left open to form a pocket.
+> ⚠️ **NOTE:** The side of the strips that faces toward the other strip should be left open to form a pocket.
 
 5. Turn the now sewn together pieces right side out to form two pockets, one 45mm tall, and the other 112mm tall
 
-> ℹ️ **Note:** You will notice that the extra 1 cm gap is wanting to fold inward on the space we left behind, and that we will only need the 45mm pocket to be open; this will be addressed in the next step
+> ℹ️ **INFO:** You will notice that the extra 1 cm gap is wanting to fold inward on the space we left behind, and that we will only need the 45mm pocket to be open; this will be addressed in the next step
 
 6. Flatten out the edges that have curled in between the two pockets and sew a sharp U along those edges and around the open-end of the 112mm pocket, sewing it closed.
 
-> ⚠️ **Warning:** Only sew the 112mm pocket closed, we will need the 45mm pocket open to fit the ID card holder!
+> ⚠️ **NOTE:** Only sew the 112mm pocket closed, we will need the 45mm pocket open to fit the ID card holder!
 
 7. Sew the 2-inch Sew-On Loop pieces to the (now closed) 112mm flap by going around the edge and forming an X in the middle for added strength.
-  - 27mm - Loop: 6mm from the bottom of the inside of the 112mm fabric flap (such that it aligns with the 27mm Hook piece)
-  - 60mm - Loop: 45mm from the bottom of the outside of the 112mm fabric flap (such that it fully clears the underside of the stiching for the 27mm Loop)
+
+   - **27mm**: 6mm from the bottom of the inside of the 112mm fabric flap
+     - such that it aligns with the 27mm Hook piece when folded in half
+   - **60mm**: 45mm from the bottom of the outside of the 112mm fabric flap
+     - such that it fully clears the underside of the stiching for the 27mm piece
+
+>
 
 8. Snip off the lanyard hanger at the top of the ID card holder such that the edge is flush.
 
@@ -102,4 +104,4 @@ Below are the tools that are required and or suggested for completing this proje
 
 12. Once you are happy with it, add epoxy into the pocket, and the back of the ID card holder/button hole to secure the two permanently together.
 
-> ℹ️ **Note:** Make sure that the glue is uniformly distributed and reaches from the bottom to the top of the ID card holder for a clean finish.
+> ⚠️ **NOTE:**Make sure that the glue is uniformly distributed and reaches from the bottom to the top of the ID card holder for a clean finish.
