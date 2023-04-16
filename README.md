@@ -94,7 +94,7 @@ Below are the tools that are required and or suggested for completing this proje
 
 8. Snip off the lanyard hanger at the top of the ID card holder such that the edge is flush.
 
-9. Using the Scotch-Weld™ DP125 Epoxy, glue the RAM® Ball Base such that the diamond is vertical, centered and touching the top of the back of the ID card holder.
+9. Using the Scotch-Weld™ DP125 Epoxy, glue the RAM® Ball Base such that the diamond is vertical, centered and touching the top of the back of the ID card holder (the side that slides in from the side instead of the top).
 
 10. Use the button hole function of your sewing machine, sew a 1-inch button hole 45mm from the bottom of the fabric you have assembled, just above the 45mm pocket.
 
