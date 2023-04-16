@@ -70,9 +70,9 @@ Below are the tools that are required and or suggested for completing this proje
               ┗━━━━┛
 ```
 
-3. Sew the 27mm Hook (NOT loop) piece to the outside of the 45mm cordura piece 14mm from the bottom.
+3. Sew the 27mm Hook (NOT loop) piece to the outside of the 45mm cordura piece 14mm from the bottom by going around the edge and forming an X in the middle for added strength.
 
-> ℹ️ **Note:** Be sure to secure the velcro with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
+> ℹ️ **Note:** Be sure to secure the velcro (and all other fabric in this guide) with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
 
 4. Sew the fabric strips together (in two Us around the edge) with their outsides facing each other (so that they are inside out) with the 45mm piece aligned to the bottom of the 210mm piece and the 112mm piece aligned with the top of the 210mm piece.
 
@@ -86,7 +86,7 @@ Below are the tools that are required and or suggested for completing this proje
 
 > ⚠️ **Warning:** Only sew the 112mm pocket closed, we will need the 45mm pocket open to fit the ID card holder!
 
-7. Sew the Loop pieces to the (now closed) 112mm flap
+7. Sew the Loop pieces to the (now closed) 112mm flap by going around the edge and forming an X in the middle for added strength.
   - 27mm - Loop: 6mm from the bottom of the inside of the 112mm fabric flap (such that it aligns with the 27mm Hook piece)
   - 60mm - Loop: 45mm from the bottom of the outside of the 112mm fabric flap (such that it fully clears the underside of the stiching for the 27mm Loop)
 
