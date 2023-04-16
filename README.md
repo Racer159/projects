@@ -74,7 +74,9 @@ Below are the tools that are required and or suggested for completing this proje
 
 > ℹ️ **Note:** Be sure to secure the velcro with ~3 backstiches to prevent unravelling - a linear stich around 0.5cm in length will work, though feel free to experiment with whatever stich style you want.
 
-4. Sew the fabric strips together with their outsides facing each other (so that they are inside out) with the 45mm piece aligned to the bottom of the 210mm piece and the 112mm piece aligned with the top of the 210mm piece.
+4. Sew the fabric strips together (in two Us around the edge) with their outsides facing each other (so that they are inside out) with the 45mm piece aligned to the bottom of the 210mm piece and the 112mm piece aligned with the top of the 210mm piece.
+
+> ℹ️ **Note:** The side of the strips that faces toward the other strip should be left open to form a pocket.
 
 5. Turn the now sewn together pieces right side out to form two pockets, one 45mm tall, and the other 112mm tall
 
