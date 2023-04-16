@@ -85,14 +85,14 @@ Below are the tools that are required and or suggested for completing this proje
 
 > ⚠️ **NOTE:** Only sew the 112mm pocket closed, we will need the 45mm pocket open to fit the ID card holder!
 
-7. Sew the 2-inch Sew-On Loop pieces to the (now closed) 112mm flap by going around the edge and forming an X in the middle for added strength.
+7. Sew the 2-inch Sew-On Loop pieces to the (now closed) 112mm flap as follows:
 
    - **27mm**: 6mm from the bottom of the inside of the 112mm fabric flap
      - such that it aligns with the 27mm Hook piece when folded in half
    - **60mm**: 45mm from the bottom of the outside of the 112mm fabric flap
      - such that it fully clears the underside of the stiching for the 27mm piece
 
->
+> ⚠️ **NOTE:** As before, you should do this by going around the edge and forming an X in the middle for added strength.
 
 8. Snip off the lanyard hanger at the top of the ID card holder such that the edge is flush.
 
