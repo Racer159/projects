@@ -4,7 +4,7 @@ This repository contains instructions for a few projects I have worked on to cre
 
 | Project     | Description |
 | ----------- | ----------- |
-| [Badge Holder](./ram-badge-holder/README.md) | A badge holder attached to a ball mount for use in a variety of situations where you want easy access to an ID/badge/card. |
+| [Badge Holder](./ram-badge-holder/README.md) | A badge holder attached to a ball mount for use where you want easy access to an ID/badge/card. |
 | [All-thread Desk](./all-thread-desk/README.md) | A flexible and customizable desk design made from plywood suspended by all-thread rods. |
 
 > ℹ️ **INFO:** <br/>
