@@ -1,4 +1,5 @@
 # RAM® Mount Badge Holder
+
 Below are instructions for creating a badge holder to RAM® mount adapter for use on motorcycles or other applications where you want to have a standard ID-1/CR80 card mounted via a RAM® mount.  This could be used with a Military Common Access Card (CAC), Credit Card, Employee Badge or other card in any situation you need fast access to the card (such as going through a gated, or access controlled area in a vehicle).
 
 > ℹ️ **INFO:** <br/>
@@ -27,7 +28,7 @@ Below is the Bill of Materials for building this adapter.  Do note this does not
 
 ## Tools
 
-Below are the tools that are required and or suggested for completing this project.
+Below are the tools that are required and/or suggested for completing this project.
 
 1. Sewing Machine (w/1" Button Hole function)
 2. Small Snips or Scissors
